@@ -7,3 +7,4 @@ A react workspace
 - eslint
 - prettier
 - ant design
+- pre-commit lint
