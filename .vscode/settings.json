@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.autoFixOnSave": true,
+  "prettier.eslintIntegration": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.singleQuote": true,
+  "stylusSupremacy.insertColons": false,
+  "stylusSupremacy.insertSemicolons": false,
+  "stylusSupremacy.insertBraces": false,
+  "stylusSupremacy.insertNewLineAroundImports": false,
+  "stylusSupremacy.insertNewLineAroundBlocks": "root",
+  "stylusSupremacy.sortProperties": "grouped"
+}
