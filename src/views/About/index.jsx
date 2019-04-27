@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
 class About extends Component {
-  render () {
+  render() {
     return (
       <div>
-        Welcome to <strong>About</strong> page!
+        Welcome to <strong>Test About</strong> page!
       </div>
     )
   }
