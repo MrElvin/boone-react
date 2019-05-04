@@ -9,6 +9,7 @@ A react workspace
 - ant design
 - pre-commit lint
 - react-router
+- decorators support
 
 ## Scripts
 

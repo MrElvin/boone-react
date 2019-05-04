@@ -10,5 +10,6 @@
   "stylusSupremacy.insertBraces": false,
   "stylusSupremacy.insertNewLineAroundImports": false,
   "stylusSupremacy.insertNewLineAroundBlocks": "root",
-  "stylusSupremacy.sortProperties": "grouped"
+  "stylusSupremacy.sortProperties": "grouped",
+  "javascript.implicitProjectConfig.experimentalDecorators": true
 }
